@@ -24,25 +24,3 @@ const Pagination = ({ jobsPerPage, totalJobs, paginate }) => {
 
 export default Pagination;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -14,7 +14,7 @@ function App() {
     
         <Route  path = "/Jobs" component = { Jobs } />
         <Route  path="/Pagination" component={Pagination} />
-        <Route exact path="/" component={Home} />    
+        <Route  path="/" component={Home} />    
           
       
 
